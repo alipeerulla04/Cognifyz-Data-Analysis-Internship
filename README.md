@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![Excel](https://img.shields.io/badge/Excel-Pivot%20Tables-green)
 # Cognifyz-Data-Analysis-Internship
 
 This project was completed as part of the Data Analysis Internship at Cognifyz Technologies.
@@ -7,6 +9,10 @@ This project was completed as part of the Data Analysis Internship at Cognifyz T
 - Pivot Tables
 - Data Visualization
 - Data Analysis Techniques
+- Python
+- Pandas
+- Matplotlib
+- Google Colab
 
 ## Tasks Completed
 
@@ -52,6 +58,24 @@ This task analyzes the geographic distribution of restaurants using the latitude
 ## Level 2 – Task 4: Restaurant Chain Analysis
 This task identifies restaurant chains by analyzing repeated restaurant names in the dataset. Pivot Tables were used to count how many outlets each restaurant chain has. Additionally, the average ratings of these chains were calculated to evaluate their overall customer satisfaction and popularity.
 ![Restaurant Chains](task8_restaurant_chains.png.png)
+
+## Python Implementation
+
+This project was also implemented using Python to perform data analysis using pandas and matplotlib.
+
+The Python notebook includes:
+- Data loading and preprocessing
+- Cuisine analysis
+- City-wise analysis
+- Price range distribution
+- Online delivery analysis
+- Restaurant ratings analysis
+- Cuisine combinations
+- Geographic visualization
+- Restaurant chain analysis
+
+Notebook file: Cognifyz_Data_Analysis.ipynb
+
 ## Dataset
 Restaurant dataset containing information about cuisines, ratings, price ranges, locations, and delivery services.
 
