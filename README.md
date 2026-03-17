@@ -1,5 +1,4 @@
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
-![Excel](https://img.shields.io/badge/Excel-Pivot%20Tables-green)
+
 # Cognifyz-Data-Analysis-Internship
 
 This project was completed as part of the Data Analysis Internship at Cognifyz Technologies.
@@ -15,7 +14,7 @@ This project was completed as part of the Data Analysis Internship at Cognifyz T
 - Google Colab
 
 ## Tasks Completed
-
+![Excel](https://img.shields.io/badge/Excel-Pivot%20Tables-green)
 ### Level 1
 
 ## Level 1 – Task 1: Top Cuisines Analysis
@@ -59,6 +58,7 @@ This task analyzes the geographic distribution of restaurants using the latitude
 This task identifies restaurant chains by analyzing repeated restaurant names in the dataset. Pivot Tables were used to count how many outlets each restaurant chain has. Additionally, the average ratings of these chains were calculated to evaluate their overall customer satisfaction and popularity.
 ![Restaurant Chains](task8_restaurant_chains.png.png)
 
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
 ## Python Implementation
 
 This project was also implemented using Python to perform data analysis using pandas and matplotlib.
