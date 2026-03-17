@@ -61,7 +61,8 @@ This task identifies restaurant chains by analyzing repeated restaurant names in
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
 ## Python Implementation
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alipeerulla04/Cognifyz-Data-Analysis-Internship/blob/main/Cognifyz_Data_Analysis.ipynb)
-https://github.com/alipeerulla04/Cognifyz-Data-Analysis-Internship/blob/main/Cognifyz_Data_Analysis.ipynb
+
+
 This project was also implemented using Python to perform data analysis using pandas and matplotlib.
 
 The Python notebook includes:
