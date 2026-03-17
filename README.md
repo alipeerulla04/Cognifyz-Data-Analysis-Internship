@@ -81,5 +81,13 @@ Notebook file: Cognifyz_Data_Analysis.ipynb
 ## Dataset
 Restaurant dataset containing information about cuisines, ratings, price ranges, locations, and delivery services.
 
+## Key Insights
+
+- Most restaurants fall under low to mid price ranges
+- Certain cities have a higher concentration of restaurants
+- Online delivery availability impacts restaurant ratings
+- Popular cuisine combinations dominate the market
+- Restaurant chains show consistent performance across locations
+  
 ## Outcome
 The analysis provided insights into cuisine popularity, restaurant distribution, rating patterns, and restaurant chains.
